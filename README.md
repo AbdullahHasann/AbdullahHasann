@@ -6,8 +6,6 @@
 
 ---
 
-(https://source.unsplash.com/1600x400/?technology,coding)
-
 💻 **About Me:**
 - 🏗️ Working with **databases**, **migrations**, and web development.
 - ⚡ Passionate about learning new technologies and building **React**, **Django**, and **Arduino** projects.
