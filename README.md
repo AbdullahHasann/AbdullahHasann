@@ -17,11 +17,6 @@
 - 🔥 **Projects:** Web applications, mobile apps, IoT projects.
 - 🎯 **Goals:** Publish e-commerce websites built with React.
 
----
 
-📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahHasann&show_icons=true&theme=radical)
-
----
 
 ✨ "Code is not just instructions for a computer, it's **art** for developers!" ✨
