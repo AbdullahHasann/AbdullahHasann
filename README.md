@@ -6,7 +6,7 @@
 
 ---
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+(https://source.unsplash.com/1600x400/?technology,coding)
 
 💻 **About Me:**
 - 🏗️ Working with **databases**, **migrations**, and web development.
